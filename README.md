@@ -53,3 +53,6 @@ The project demonstrates aptitude in creating:
 - KPI development and dashboard design
 - Business insight generation and communication
 - Data-driven decision support
+
+# Link to Tableau Public
+- https://public.tableau.com/views/CustomerChurnDashboard_17742936784390/CustomerRetentionDashboard
