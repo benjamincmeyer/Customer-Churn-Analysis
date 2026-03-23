@@ -1,5 +1,10 @@
 ## Customer-Churn-Analysis
-This project analyzes customer churn behavior for a fictitious telecom company to identify high-risk customer segments and recommend data-driven retention strategies.
+This project analyzes customer churn for a telecom company and identifies a high-risk customer segment with a churn rate of ~72%—nearly 3x the overall average.
+
+By examining contract type, tenure, service adoption, and pricing, this analysis uncovers key drivers of churn and provides actionable recommendations to improve customer retention.
+
+<img width="1917" height="1009" alt="Retention-Dashboard" src="https://github.com/user-attachments/assets/9b223ea9-0790-4dcd-993c-db32ffd43930" />
+
 
 The goal of this analysis was to answer:
 - What factors are driving customer churn?
